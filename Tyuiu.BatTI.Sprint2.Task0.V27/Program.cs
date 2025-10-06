@@ -17,7 +17,7 @@ Console.WriteLine("* Выполнил: Бат Трофим Иванович | П
 Console.WriteLine("****************************************************************************");
 Console.WriteLine("* УСЛОВИЕ:                                                                 *");
 Console.WriteLine("* Написать программу из операций сравнений и арифметических выражений,     *");
-Console.WriteLine("* вернет логическую последовательность True False True False False True    *");
+Console.WriteLine("* вернет логическую последовательность True False True False False True.   *");
 Console.WriteLine("*                                                                          *");
 Console.WriteLine("****************************************************************************");
 Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                         *");
