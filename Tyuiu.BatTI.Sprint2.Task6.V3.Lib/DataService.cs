@@ -9,13 +9,13 @@ namespace Tyuiu.BatTI.Sprint2.Task6.V3.Lib
             string x = "День Недели";
             switch (value)
             {
-                case 1: x = "Понедельник"; break;
-                case 2: x = "Вторник"; break;
-                case 3: x = "Среда"; break;
-                case 4: x = "Четверг"; break;
-                case 5: x = "Пятница"; break;
-                case 6: x = "Суббота"; break;
-                case 7: x = "Воскресенье"; break;
+                case 1: x = "понедельник"; break;
+                case 2: x = "вторник"; break;
+                case 3: x = "среда"; break;
+                case 4: x = "четверг"; break;
+                case 5: x = "пятница"; break;
+                case 6: x = "суббота"; break;
+                case 7: x = "воскресенье"; break;
                 default: x = "Неверное значение"; break;
             }
             return x;   
